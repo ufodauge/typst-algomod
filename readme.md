@@ -1,5 +1,7 @@
 # Algorithm for Typst
 
+inspired by [typst-theorems](https://github.com/sahasatvik/typst-theorems).
+
 ## Example
 
 ```typ
