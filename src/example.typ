@@ -1,5 +1,5 @@
-#import "algomod.typ": algomod, algomodLink
-#import "algomod_statements.typ": *
+#import "../algomod.typ": algomod, algomodLink
+#import "../algomod_statements.typ": *
 
 #let algorithm = algomod()
 
